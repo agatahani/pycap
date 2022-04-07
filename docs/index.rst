@@ -1,77 +1,98 @@
-###########################################
-Dokumentasi Nada Dering Suara Google
-###########################################
+Cara Download Video YouTube
+==========================
 
-Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan `sound of text <https://karinov.co.id/sound-of-text-wa/>`_.
+Youtube merupakan platform video yang paling populer di masyarakat. Semua jenis video yang ingin di tonton semua ada di Youtube. Mulai dari berita, hiburan, film hingga tutorial semua ada di sana. Itu sebabnya platform ini pasti terpasang di semua HP dan menjadi sarana hiburan dan edukasi bagi masyarakat di dunia. Namun menonton video di YouTube membutuhkab data internet yang tidak sedikit. 
 
-Sebab Google Translate tidak bisa menyimpan audio sehingga kamu bisa membuatnya melalui situs sound of text. Ada beberapa cara downlaod suara Google 'ada WA masuk’ menggunakan beberapa situs.
+Bagi anda yang tidak memiliki koneksi home wifi tentu sangat berat. Nah, kini ada cara download YouTube di HP yang bisa dilakukan tanpa aplikasi sehingga anda bisa menonton video-video YouTube secara offline. Cara ini juga bisa digunakan untuk mengunduh mp3 dari YouTube sehingga kamu bisa memasang lagu menjadi nada dering dengan mengikuti step tambahan berikut ini: https://www.autobild.co.id/2022/03/download-mp3-nada-dering-wa-lucu-dan.html
 
-Untuk hasilnya memang akan cukup memuaskan suara yang dihasilkan umumnya akan berbeda diantara situs tersebut. Dengan kata-kata tersebut nantinya juga bisa divariasikan agar tidak hanya menarik tetapi juga lucu.
+Inilah daftar situs downloader YouTube terbaik yang bisa kkamu coba.
 
-Cara Download Suara Google Ada WA Masuk dengan Sound of Text
-=======================
+1. Download Video YouTube Melalui Y2Mate
+===========
 
-Untuk menggunakan suara Google, kamu bisa memanfaatkan berbagai situs sound of text yang ada di internet. Berbagai suara bisa kamu dapat di platform itu dan berikut tutorial selengkapnya:
+Fitur unggulan yang dimiliki oleh Y2Mate MP3 MP4 YouTube Downloader dijamin akan membuat anda merasa puas karena `Y2mate Downloader <https://www.sebuahutas.com/2022/03/y2mate-pengunduh-video-dan-mp3-dari.html>`_ sudah mendukung video dari berbagai format seperti MP3, WAV. AAC. OCG. WMA, M4A FLAC, 3GP, AVI, FLV dan sebagainya. Pengunduhan video YouTube melalui Y2Mate juga tidak dikenakan biaya sedikitpun alias gratis.
 
-#1 Suara Spongebob
----------------
+Y2Mate juga kini sudah dapat digunakan di semua sistem operasi yaitu Windows, Linux, Android dan iOS. Dengan demikian semua pengguna perangkat dengan semua jenis sistem operasi dapat merasakan sensasi mengunduh video tanpa harus khawatir perangkatnya tidak kompatibel Y2Mate secara gratis, bebas akses dan berkesan tentunya. Simak fitur unggulan Y2Mate dibawah ini :
 
-Suara Google yang bisa kamu manfaatkan sebagai notifikasi Whatsapp adalah Spongebob. Suara yang dihasilkan dari salah satu tokoh kartun tersebut hingga kini banyak diminati oleh orang dari semua kalangan.
+- Mendukung semua platform
+- Konversi mudah dan cepat
+- Dapat diunggah ke Cloud
+- Mendukung unduhan di semua format
+- Dapat mengunduh tanpa batas
+- Mp3 dapat dijadikan nada dering wa
 
-Rata-rata suara dari tokoh tersebut tergolong lucu dan akan mampu menghibur orang yang mendengarkannya. Bagi kamu yang ingin mencoba membuatnya, berikut beberapa langkah yang perlu dilakukan:
+Untuk mengunduh video dari Youtube memakai Y2Mate hanya membutuhkan beberapa langkah yang sederhana. Selain caranya mudah, video dapat disimpan dengan format apa saja. Cara mengunduh videonya adalah sebagai berikut:
 
-1. Kamu bisa membuka aplikasi browser di smartphone lalu ketikkan situs berikut fakeyou.com
-2. Kemudian kamu bisa mulai masuk di categories filter lalu pilih cartoons.
-3. Pada sisi kanan dari kategori tersebut, kamu bisa memilih Spongebob SquarePants.
-4. Kamu bisa melanjutkan dengan memilih tokoh Spongebob di bagian voice.
-5. Pada kolom teks yang tersedia, kamu bisa mengetikkan kata-kata ada WA masuk.
-6. Ketika proses pengaturan selesai, kamu bisa mengklik speak.
-7. Untuk melihat hasilnya, kamu bisa scroll ke bawah lalu pilih download untuk mengunduh file audionya.
-8. Ketika menggunakan situs tersebut, kamu bisa memilih tokoh-tokoh yang disukai dari sisi suaranya. Di dalamnya terdapat 39 voice atau tokoh Spongebob yang dapat kamu pilih dan nantinya bisa di download ke smartphone.
+1. Buka YouTube dan pilih video yang akan diunduh.
+2. Jika sudah menemukan video yang dicari copy link video tersebut.
+3. Setelah menyalin link video, bukalah  situs Y2Mate atau www.y2mate.com/en157.
+4. Jika sudah masuk ke dalam situs, akan tampak tampilan muka dari situs ini yang terlihat sederhana.
+5. Paste link yang tadi sudah dicopy pada kolom yang sudah disediakan.
+6. Klik Start kemudian akan tampil pilihan Video, MP3 dan Audio.
+7. Jika ingin mengunduh video, klik opsi Video.
+8. Di layar akan tampil pilihan resolusi mulai dari 1080 Full HD, 720p hingga 144p 3Gp.
+9. Tentukan sendiri jenis file yang akan diunduh, lalu klik Download.
+10. Tunggu hingga proses download benar-benar selesai.
 
-Karena proses percobaan dari beberapa tokoh maka kamu tidak perlu langsung mengklik download tetapi bisa memilih play terlebih dahulu. Setelah kamu mendapatkan suara terbaik maka bisa langsung mengklik download untuk mulai mengunduh audio.
+2. Mengunduh Video YouTube menggunakan YT1s MP3 Converter
+==================
 
-#2 Suara Wanita
-----------------
+Menonton video dan mendengarkan musik dari YouTube kini lebih mudah dan dapat dilakukan secara offline dengan cara mengunduh vidoenya menggunakan bantuan situs YT1s MP3 MP4 Converter. Situs ini tersedia gratis, anda tinggal mengunjungi situsnya saja.
 
-Umumnya suara wanita lebih disukai daripada suara pria saat digunakan untuk notifikasi di Whatsapp. Bagi kamu yang menginginkan hal ini maka bisa memanfaatkan situs Sound of text untuk membuatnya.
+Cara download video Youtube di HP bisa dilakukan dengan sangat mudah menggunakan YT1s ini. Terdapat beberapa kelebihan yang bisa anda dapatkan dengan menggunakan situs ini yaitu:
 
-Dalam proses pembuatannya cukup mudah dan kamu bisa langsung menggunakan dengan cara sebagai berikut:
+1. Situs YT1s MP3 MP4 Converter aman untuk digunakan.
+2. Situs ini dapat diakses dengan mudah.
+3. Bisa digunakan untuk mendownload video dengan jumlah tak terbatas.
+4. Dapat digunakan untuk mendownload semua format Video.
+5. Setelah di download anda dapat langsung merubah formatnya menjadi Audio atau Video.
+5. Anda tidak perlu Login untuk mendapatkan manfaat gratis dari situs ini.
+6. Setelah mengetahui seluk beluk dan kelebihan dari situs YT1s kini simak langkah-langkah yang harus anda lakukan untuk mendownload video YouTube dari situs ini. 
 
-1. Bukalah aplikasi browser yang ada di ponsel kamu dan ketikkan situs soundoftext.com di kolom pencarian.
-2. Pada bagian text, kamu bisa langsung mengetikkan kata-kata ada WA masuk.
-3. Kemudian di kolom voice, kamu bisa memilih Indonesia.
-4. Selanjutnya kamu bisa scroll ke bawah lalu pilih play untuk memutar
-5. Jika suaranya sudah sesuai, kamu bisa langsung mengklik download untuk mulai mengunduh.
-6. Dengan situs Sound of text, suara yang dihasilkan tergolong merdu karena menggunakan suara wanita. Hal yang perlu kamu perhatikan ketika membuat adalah jumlah karakternya dibatasi sebanyak 200 karakter saja.
+Langkahnya adalah sebagai berikut:
 
-Jadi ketika menggunakan kata-kata selain di atas, kamu perlu mengukur dan menghitung berapa jumlah karakternya. Selain itu, di situs tersebut tidak hanya bahasa Indonesia melainkan bisa juga menggunakan bahasa Jawa dengan tools berikut ini: https://www.voiceoftext.com/p/sound-of-text-javanese.html
+1. Masuk ke dalam YouTube terlebih dahulu.
+2. Pilih video yang ingin didownload.
+3. Pilih menu Bagikan kemudian klik opsi Salin Link.
+4. Selanjutnya bukalah browser di HP
+5. Ketik situs www.yt1s.com
+6. Pilih format hasil download apakah akan disimpan dalam bentuk MP3 atau MP4.
+7. Paste link video pada kolom yang telah disediakan.
+8. Klik tombol Convert dan tunggu hingga proses ini selesai dilakukan dengan sempurna.
+9. Pilih format video yang ingin disimpan lalu klik Unduh.
+10. Setelah video selesai diunduh maka akan otomatis tersimpan ke dalam galeri di HP.
 
-Untuk hasil yang lebih maksimal, kamu bisa mencoba dari dua pilihan tersebut untuk di convert menjadi audio. Setelah menemukan yang terbaik maka kamu bisa langsung mengunduhnya dan menyimpan di smartphone.
+3. Cara Download YouTube Di HP Menggunakan Situs Savefrom
+======================
 
-Cara Mengganti Nada Dering WhatsApp dengan Suara Google
-=======================
+Cara mengunduh video YouTube di HP yang sangat mudah berikutnya adalah melalui situs `Savefrom.net <https://www.sebuahutas.com/2022/03/savefromnet-apk-official-download-untuk.html>`_. situs ini dapat membantu mengunduh video dari YouTube sehingga dapat ditonton secara offline pada saat tidak ada koneksi internet yang tersambung ke HP. Tentunya selain memudahkan, hal ini juga menguntungkan dan ekonomis.
 
-Setelah proses pembuatan audio file selesai, kamu bisa mengganti nada dering tersebut dengan cara sebagai berikut:
+Kualitas video yang diunduh juga beragam dan bisa disesuaikan dengan keinginan anda. Tersedia pilihan 360p, 720p, 1080p hingga 4000p. Selain itu, video yang diunduh pun bisa disimpan di Google Drive atau Cloud sehingga tidak akan menghabiskan memori di HP. Berikut ini adalah cara download video YouTube menggunakan Savefrom.net yaitu:
 
-1. Buka aplikasi Whatsapp dan silahkan kamu update terlebih dahulu di Google Play.
-2. Kamu bisa klik tiga titik di kanan atas lalu pilih setelan.
-3. Kemudian kamu bisa memilih menu notifikasi lalu pilih salah satu antara pesan, group atau panggilan.
-4. Pada bagian tersebut, kamu bisa pilih nada dering lalu klik pilih dari file.
-5. Terakhir kamu bisa memilih nada dering yang sudah dibuat di bagian atas tersebut.
+1. Buka halaman YouTube.
+2. Cari dan pilih video yang ingin anda download
+3. Klik bagikan dan pilih opsi Salin Link.
+4. Buka browser di HP dan ketik situs www.savefrom.net.
+5. Paste link telah disalin di kolom yang disediakan.
+6. Pilih kualitas video.
+7. Klik download .
+8. Pilih opsi penyimpanan, klik Save dan selesai.
 
-Dengan cara downlaod suara Google 'ada WA masuk' kamu tentunya bisa memilih situs mana yang terbaik. Setelah audionya selesai, kamu bisa menggunakan untuk berbagai notifikasi seperti chat, group atau panggilan di Whatsapp. Sekian dan terimakasih.
+Walaupun menggunakan situs savefrom.net ini sangat mudah, namun ada kekurangan yang dirasakan dari hasil unduhan videonya, diantaranya adalah: iklan dan pengantar pada video akan ikut terunduh, jika diunduh dalam format MP3 rasanya sedikit mengganggu jika di awal audio terdengar suara iklan.
+Kualitas video yang diunduh tidak terlalu baik.
+ 
+4. Cara Download YouTube di HP Menggunakan Situs Ytmp3.cc
+======================
 
-Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: https://www.statmat.net/sound-text-nada-dering-wa/
+Download video YouTube di HP dapat dilakukan dengan sangat mudah dan tanpa harus menginstal aplikasi ketiga. Hal ini dapat dilakukan dengan bantuan situs `Ytmp3 <https://karinov.co.id/ytmp3-untuk-download-lagu-youtube/>`_ yang dapat diakses secara gratis melalui browser HP anda. Caranya adalah sebagai berikut :
 
-********
-Contents
-********
+1. Masuk ke YouTube terlebih dahulu.
+2. Pilih video yang akan di download , kemudian klik Berbagi dan pilih opsi Salin Link.
+3. Buka situs savefrom.net di HP.
+4. Tempelkan URL video dalam kotak yang tersedia di laman situs.
+5. Pilih opsi format MP3 atau MP4 yang ada dibawah kotak.
+6. Klik tombol Convert  yang ada di atas kotak.
+7. Sistem akan melakukan konversi secara otomatis.
+8. Setelah konversi selesai, klik Download.
 
-.. toctree::
-   :maxdepth: 2
-
-   style-guide
-   iphone/index
-   en/latest/index
-
+Demikian ulasan kali ini mengenai cara download video YouTube di HP menggunakan beberapa situs. Situs diatas dapat di akses secara gratis, namun bukan merupakan situs yang legal. Mendownload video YouTube tanpa seijin pemiliknya tentu sejatinya melanggar ketentuan hak cipta. Namun jika anda menginginkan untuk menonton video YouTube tanpa paket data internet, anda dapat mengunduhnya secara bijaksana melalui situs-situs di atas.
