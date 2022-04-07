@@ -1,2 +1,2 @@
-Indexs
+Index
 =====
